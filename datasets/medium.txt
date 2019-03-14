@@ -1,0 +1,59 @@
+http://www.berkeley.edu	http://www-resources.berkeley.edu/nhpteaching	http://www.lib.berkeley.edu	http://www-resources.berkeley.edu/nhpsearch	http://www.chance.berkeley.edu/bp/assoc-chance/wwwsteer.html	http://summer.berkeley.edu	http://www.urel.berkeley.edu/urel_1/CampusNews/PressReleases/releases/07-15-1998.html	http://www-resources.berkeley.edu/directory	http://www.unex.berkeley.edu:4243	http://www.uga.berkeley.edu/ouars	http://www.uhs.berkeley.edu	http://amber.berkeley.edu:5014	http://public-safety.berkeley.edu:4254	http://www.chance.berkeley.edu/planning/calendar.html	http://www.urel.berkeley.edu/UREL_1/Campusnews/berkeleyan/1998/0616/default.html	http://infocal.berkeley.edu:5050/oar	http://www-resources.berkeley.edu/nhpothercampusinfo	http://comp-resources.berkeley.edu:5019
+http://www.caltech.edu	http://www.jpl.nasa.gov
+http://www.realestatenet.com	http://www.remax.com/balloon	http://www.remax.com	http://www.remaxhost.com/remaxsearch.asp
+http://www.ucsb.edu	http://www.artsandlectures.ucsb.edu	http://www.sb.net/gauchos	http://www.sa.ucsb.edu	http://id-www.ucsb.edu/IR/CampusMap/UCSBmap.html	http://www.admit.ucsb.edu	http://www-instadv.ucsb.edu/InstAdv/AlumniAssociation/AlumniMAINHomePage	http://ucsbuxa.ucsb.edu/Human-Resources/Employment	http://www.xlrn.ucsb.edu.	http://www.catalog.ucsb.edu	http://events.sa.ucsb.edu
+http://www.washingtonpost.com/wp-srv/national/longterm/50states/ca.htm	http://www.ca.gov/s/govt/legisca.html	http://www.sjmercury.com	http://www.weatherpost.com/navpages/citylists/nf_southerncalifornia.htm	http://www.sfgate.com	http://www.nps.gov/yose	http://www.sacbee.com	http://www.weatherpost.com	http://www.weatherpost.com/navpages/citylists/nf_northerncalifornia.htm	http://www.ocregister.com	http://www.earthwaves.com/califneq.html	http://www.uniontrib.com	http://www.weatherpost.com/navpages/citylists/nf_centralcalifornia.htm	http://www.ca.gov/s/govt/constoff.html	http://www.bakersfield.com	http://mry.infohut.com/phototour/home.htm	http://www.ca.gov/s/govt/cfederal.html	http://www.dot.ca.gov/hq/roadinfo	http://www.census.gov/datamap/www/06.html	http://uts.cc.utexas.edu/~scring/index.html	http://www.state.ca.us	http://www.winezone.com	http://www.latimes.com/HOME	http://www.itlnet.com/main/holywood.html
+http://www-resources.berkeley.edu/nhpteaching
+http://www.lib.berkeley.edu
+http://www-resources.berkeley.edu/nhpsearch
+http://www.chance.berkeley.edu/bp/assoc-chance/wwwsteer.html
+http://summer.berkeley.edu
+http://www.urel.berkeley.edu/urel_1/CampusNews/PressReleases/releases/07-15-1998.html
+http://www-resources.berkeley.edu/directory
+http://www.unex.berkeley.edu:4243
+http://www.uga.berkeley.edu/ouars
+http://www.uhs.berkeley.edu
+http://amber.berkeley.edu:5014
+http://public-safety.berkeley.edu:4254
+http://www.chance.berkeley.edu/planning/calendar.html
+http://www.urel.berkeley.edu/UREL_1/Campusnews/berkeleyan/1998/0616/default.html
+http://infocal.berkeley.edu:5050/oar
+http://www-resources.berkeley.edu/nhpothercampusinfo
+http://comp-resources.berkeley.edu:5019
+http://www.jpl.nasa.gov
+http://www.remax.com/balloon
+http://www.remax.com
+http://www.remaxhost.com/remaxsearch.asp
+http://www.artsandlectures.ucsb.edu
+http://www.sb.net/gauchos
+http://www.sa.ucsb.edu
+http://id-www.ucsb.edu/IR/CampusMap/UCSBmap.html
+http://www.admit.ucsb.edu
+http://www-instadv.ucsb.edu/InstAdv/AlumniAssociation/AlumniMAINHomePage
+http://ucsbuxa.ucsb.edu/Human-Resources/Employment
+http://www.xlrn.ucsb.edu.
+http://www.catalog.ucsb.edu
+http://events.sa.ucsb.edu
+http://www.ca.gov/s/govt/legisca.html
+http://www.sjmercury.com
+http://www.weatherpost.com/navpages/citylists/nf_southerncalifornia.htm
+http://www.sfgate.com
+http://www.nps.gov/yose
+http://www.sacbee.com
+http://www.weatherpost.com
+http://www.weatherpost.com/navpages/citylists/nf_northerncalifornia.htm
+http://www.ocregister.com
+http://www.earthwaves.com/califneq.html
+http://www.uniontrib.com
+http://www.weatherpost.com/navpages/citylists/nf_centralcalifornia.htm
+http://www.ca.gov/s/govt/constoff.html
+http://www.bakersfield.com
+http://mry.infohut.com/phototour/home.htm
+http://www.ca.gov/s/govt/cfederal.html
+http://www.dot.ca.gov/hq/roadinfo
+http://www.census.gov/datamap/www/06.html
+http://uts.cc.utexas.edu/~scring/index.html
+http://www.state.ca.us
+http://www.winezone.com
+http://www.latimes.com/HOME
+http://www.itlnet.com/main/holywood.html
