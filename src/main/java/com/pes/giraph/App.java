@@ -82,12 +82,16 @@ BasicComputation<Text, Text, Text, Text> {
 
         HitsScores prev = new HitsScores(vertex.getValue());
         vertex.setValue(cur.toText());
-        if (getSuperstep() > 0 && getSuperstep() < 500
+        if (getSuperstep() > 0
                 && ((Math.abs(cur.getHubScore() - prev.getHubScore()) <= 0.01)
                     && (Math.abs(cur.getAuthScore() - prev.getAuthScore()) <= 0.01)) ) {
             System.out.println("Vertex " + vertex.getId() + " Voting to halt!");
             vertex.voteToHalt();  // signaling the end of the current BSP computation for the current vertex 
-        } else {
+        } else if ( getSuperstep() > 500 ) {
+            System.out.println("Vertex " + vertex.getId() + " Voting to halt!");
+            vertex.voteToHalt();  // signaling the end of the current BSP computation for the current vertex 
+        } 
+        else {
             sendMessageToAllEdges(vertex, cur.toText("M", vertex.getId().toString()));
             sendMessageToMultipleEdges(replies.iterator(), cur.toText());
         }
