@@ -80,6 +80,8 @@ BasicComputation<Text, Text, Text, Text> {
 
         System.out.println("For vertex " + vertex.getId() + ", normalized scores are: " + cur);
 
+        long maxSteps = Long.parseLong(getConf().get("max.num.steps", "75"));
+
         HitsScores prev = new HitsScores(vertex.getValue());
         vertex.setValue(cur.toText());
         if (getSuperstep() > 0
@@ -87,7 +89,7 @@ BasicComputation<Text, Text, Text, Text> {
                     && (Math.abs(cur.getAuthScore() - prev.getAuthScore()) <= 0.01)) ) {
             System.out.println("Vertex " + vertex.getId() + " Voting to halt!");
             vertex.voteToHalt();  // signaling the end of the current BSP computation for the current vertex 
-        } else if ( getSuperstep() > 500 ) {
+        } else if ( getSuperstep() > maxSteps ) {
             System.out.println("Vertex " + vertex.getId() + " Voting to halt!");
             vertex.voteToHalt();  // signaling the end of the current BSP computation for the current vertex 
         } 

@@ -18,5 +18,6 @@ $HADOOP_HOME/bin/hadoop jar $1 \
     -w 1 \
     -mc com.pes.giraph.MasterComputer \
     -ca mapred.job.tracker=`hostname`:8032 \
+    -ca max.num.steps=50 \
     # -ca giraph.SplitMasterWorker=false \
     # -ca giraph.pure.yarn.job=true \
