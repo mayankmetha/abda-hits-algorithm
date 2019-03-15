@@ -1,4 +1,13 @@
-file = open('F:\\Docs\\Sem2\\ABDA\\gr0.California_links.txt', 'r')
+import sys;
+
+if len(sys.argv) != 3:
+    print("Error! Usage: create_graph.py <Input file> <Output file>");
+    exit()
+
+filein = sys.argv[1]
+fileout = sys.argv[2]
+
+file = open(filein, 'r')
 lines = file.readlines()
 lines = [x.strip() for x in lines]
 file.close()
@@ -26,7 +35,7 @@ for val in vertices.values():
     if val not in result:
         result[val] = set()
 
-out = open('F:\\Docs\\Sem2\\ABDA\\input.txt', 'w')
+out = open(fileout, 'w')
 
 for src in result.keys():
     ns = result[src]
@@ -36,3 +45,4 @@ for src in result.keys():
     text = text[:-1]
     text += '\n'
     out.write(text)
+
